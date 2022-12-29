@@ -50,7 +50,7 @@
 
      <!-- Nav Item - Tables -->
      <li class="nav-item">
-         <a class="nav-link" href="user-index.html">
+         <a class="nav-link" href="{{ route('user.index') }}">
              <i class="fas fa-newspaper"></i>
              <span>User</span></a>
      </li>

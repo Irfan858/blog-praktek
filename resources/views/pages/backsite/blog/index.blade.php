@@ -9,7 +9,7 @@
 </div>
 
 <div class="py-2">
-    <a href="#" class="btn btn-success"><i class="fa fa-plus-square mr-2"></i> Tambah Blog Baru</a>
+    <a href="{{ route('blog.create') }}" class="btn btn-success"><i class="fa fa-plus-square mr-2"></i> Tambah Blog Baru</a>
 </div>
 
 <!-- DataTales Example -->
